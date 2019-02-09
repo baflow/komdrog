@@ -1,8 +1,12 @@
 [
-  { "name": "Skrzynia biegow", "marka": "Jelcz" },
+  { 
+    "name": "Skrzynia biegow", "marka": "Jelcz" },
   {
     "name": "Silnik",
     "marka": "Jelcz"
   },
-  {"name":"Hamulce"}
+  {
+    "name": "Hamulce",
+    "marka": "Seat"
+  }
 ]
